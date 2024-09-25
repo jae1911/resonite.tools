@@ -1,0 +1,14 @@
+[book]
+authors = ["Jae Lo Presti [j4]"]
+language = "en"
+multilingual = true
+src = "src"
+title = "resonite.tools"
+description = "A collection of tools and projects around Resonite."
+
+[build]
+build-dir = "build"
+create-missing = true
+
+[output.html]
+additional-css = ["custom.css"]
